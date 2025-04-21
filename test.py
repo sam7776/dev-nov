@@ -1,1 +1,1 @@
-print("welcome to IT Heroes:v10")
+prinlcome to IT Heroes:v10")
