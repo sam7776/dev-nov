@@ -32,4 +32,4 @@ spec:
     - protocol: TCP
       port: 80
       targetPort: 80
-  type: LoadBalancer # Or ClusterIP, NodePort depending on your needs
+  type: ClusterIP # LoadBalancer # Or ClusterIP, NodePort depending on your needs
