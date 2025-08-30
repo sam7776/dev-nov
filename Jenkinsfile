@@ -5,7 +5,6 @@ pipeline {
     tools {
         maven "mvn"
     }
-
     environment {
         NAME="Rahul"
         PASS=credentials('PASS')
@@ -92,4 +91,5 @@ pipeline {
         //     }
         // }
     }
+
 }
